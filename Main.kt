@@ -1,4 +1,3 @@
-package watermark
 import java.awt.Color
 import java.awt.Transparency
 import java.awt.image.BufferedImage
